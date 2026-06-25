@@ -243,10 +243,10 @@ OBJCOPY = arm-none-eabi-objcopy
 SIZE = arm-none-eabi-size
 
 ifeq ($(ENABLE_FEAT_F4HWN),1)
-	AUTHOR_STRING_1 ?= EGZUMER
+	AUTHOR_STRING_1 ?= zer0ne
 	VERSION_STRING_1 ?= v0.22
 
-	AUTHOR_STRING_2 ?= F4HWN
+	AUTHOR_STRING_2 ?= BD7OVY
 	VERSION_STRING_2 ?= v4.3
 
 	EDITION_STRING ?= Custom
